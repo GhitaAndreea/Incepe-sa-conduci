@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.andreea.incepesaconduci.feature">
+
+    <application>
+        <activity android:name=".TesteAuto">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".mainactivity2" />
+        <activity android:name=".V1" />
+        <activity android:name=".V2" />
+        <activity android:name=".V3" />
+        <activity android:name=".V4" />
+        <activity android:name=".Testul1" />
+        <activity android:name=".Testul12" />
+        <activity android:name=".Testul13" />
+        <activity android:name=".Testul14" />
+        <activity android:name=".Testul15" />
+        <activity android:name=".Testul16" />
+        <activity android:name=".Testul17" />
+        <activity android:name=".Testul18" />
+        <activity android:name=".Testul19" />
+        <activity android:name=".Testul110"></activity>
+    </application>
+
+</manifest>
